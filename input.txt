@@ -1,0 +1,2 @@
+sample1	/c/Users/srini/fastq_samples1/sample1_R1.fq	/c/Users/srini/fastq_samples1/sample1_R2.fq
+sample2	/c/Users/srini/fastq_samples1/sample2_R1.fq	/c/Users/srini/fastq_samples1/sample2_R2.fq
